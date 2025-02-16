@@ -1,0 +1,6 @@
+@Court_Management_HostAddress = http://localhost:5269
+
+GET {{Court_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
